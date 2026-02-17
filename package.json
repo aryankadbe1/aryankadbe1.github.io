@@ -2,7 +2,7 @@
   "name": "aryankadbe1.github.io",
   "version": "1.0.0",
   "dependencies": {
-    "jquery": "3.5.1",
+    "jquery": "3.7.1",
     "lodash": "4.17.19"
   }
 }
